@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedduzgun" alt="muhammedduzgun" /></a> </p>
 
-- 🔭 I’m currently working on [fukantin](https://github.com/MuhammedDuzgun/fukantin)
+- 🔭 I’m currently working on [akademikara-microservices](https://github.com/MuhammedDuzgun/akademikara-microservices)
 
-- 🌱 I’m currently learning **Spring, Microservices, Spring AI**
+- 🌱 I’m currently learning **Microservices, Spring AI**
 
 - 📫 How to reach me **muhammedduzgun00@gmail.com**
 
