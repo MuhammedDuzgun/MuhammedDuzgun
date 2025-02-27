@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Jr. Java Backend Developer | Computer Engineering Student</h2>
+<h2 align="center">Java Backend Developer | Computer Engineering Student</h2>
 
 ###
 
